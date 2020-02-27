@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Ubuntu|Yatra+One&display=swap");
 body {
-  background: url(images/troll.png) no-repeat center 10vw;
+  background: none;
 }
 * {
   box-sizing: border-box;
