@@ -63,9 +63,6 @@ nav {
   body {
     overflow-x: hidden;
   }
-  .navLogo {
-    font-size: 2.2rem;
-  }
   .navBar {
     width: 40%;
     position: absolute;
@@ -87,12 +84,6 @@ nav {
   }
 }
 @media screen and (max-width: 360px) {
-  .navLogo {
-    font-size: 1rem;
-  }
-  .navBar {
-    height: 9vh;
-  }
 }
 .nav-active {
   transform: translateX(0%);
