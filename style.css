@@ -20,7 +20,6 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  min-height: 8vh;
   background-color: darkcyan;
 }
 .navLogo {
@@ -28,7 +27,6 @@ nav {
   font-weight: 600;
   text-decoration: none;
   font-size: 2.2rem;
-  min-height: 9vh;
 }
 .navBar {
   display: flex;
