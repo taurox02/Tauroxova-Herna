@@ -82,13 +82,18 @@ nav {
   }
 }
 @media screen and (max-width: 780px) {
+  .navBar a {
+    font-size: 1rem;
+  }
   .navBar {
     top: 9vh;
+    height: 91vh;
   }
 }
 @media screen and (max-width: 500px) {
   .navBar {
     top: 8vh;
+    height: 92vh;
   }
   .navLogo {
     font-size: 0.8rem;
