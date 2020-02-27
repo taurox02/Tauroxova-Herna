@@ -83,7 +83,7 @@ nav {
 }
 @media screen and (max-width: 800px) {
   .navBar {
-    top: 8vh;
+    top: 8.5vh;
   }
 }
 @media screen and (max-width: 500px) {
