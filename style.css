@@ -86,9 +86,12 @@ nav {
     display: block;
   }
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 360px) {
   .navLogo {
     font-size: 1rem;
+  }
+  .navBar {
+    height: 9vh;
   }
 }
 .nav-active {
