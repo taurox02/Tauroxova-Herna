@@ -81,9 +81,9 @@ nav {
     display: block;
   }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
   .navBar {
-    top: 8.5vh;
+    top: 8.8vh;
   }
 }
 @media screen and (max-width: 500px) {
