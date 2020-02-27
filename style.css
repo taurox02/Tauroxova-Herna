@@ -88,7 +88,7 @@ nav {
 }
 @media screen and (max-width: 500px) {
   .navBar {
-    top: 3vh;
+    top: 5vh;
   }
   .navLogo {
     font-size: 0.8rem;
