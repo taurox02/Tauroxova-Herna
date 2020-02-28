@@ -86,8 +86,8 @@ nav {
     font-size: 1rem;
   }
   .navBar {
-    top: 7.5vh;
-    height: 92vh;
+    top: 7.2vh;
+    height: 92.8vh;
   }
 }
 @media screen and (max-width: 500px) {
