@@ -104,8 +104,8 @@ nav {
 }
 @media screen and (max-width: 420px) {
   .navBar {
-    top: 4.2vh;
-    height: 95.8vh;
+    top: 4vh;
+    height: 96vh;
   }
   body {
     background-color: blue;
