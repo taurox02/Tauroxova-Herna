@@ -104,6 +104,9 @@ nav {
     top: 4vh;
     height: 96vh;
   }
+  .navLogo {
+    font-size: 0.8rem;
+  }
   body {
     background-color: blue;
   }
